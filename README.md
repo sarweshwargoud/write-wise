@@ -53,10 +53,15 @@ Then open 👉 http://localhost:8501
 ```
 write-wise/
 │
+
 ├── app.py              # Streamlit main app
+
 ├── utils/              # Helper functions
+
 ├── data/               # Saved content
+
 ├── outputs/            # Generated files
+
 └── requirements.txt
 ```
 ## 🔮 Future Improvements
